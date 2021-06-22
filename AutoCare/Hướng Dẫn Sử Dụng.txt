@@ -1,0 +1,61 @@
+================== CÁC LỖI THƯỜNG GẶP - HƯỚNG DẪN KHẮC PHỤC ====================
+
+<--- Lỗi Windows Defender Firewall --->
+	- Nếu bạn Không thấy File Auto.exe để chạy hoặc thông báo không được đổi File chạy Auto hoặc bị cảnh báo Virus (cảnh báo Windows Defender Firewall)
+	=> Bạn cần cho phép Auto Care chạy bằng cách Tắt Windows Defender Firewall theo hướng dẫn phía dưới.
+	- Cách Tắt nếu Windows tiếng Anh: https://support.microsoft.com/en-us/help/4028544/windows-10-turn-microsoft-defender-firewall-on-or-off
+	- Cách Tắt nếu Windows tiếng Việt: https://support.microsoft.com/vi-vn/help/4028544/windows-10-turn-microsoft-defender-firewall-on-or-off
+	- Lưu ý: Đọc kỹ cách Tắt của Microsoft phía trên và cách Cho phép ứng dụng vượt qua tường lửa để bạn chỉ cần tắt 1 lần duy nhất.
+
+<--- Lỗi Net Framework (Dotnet) --->
+	- Nếu bạn mở Auto Care không lên và bị cảnh báo liên quan đến Net Framework (Dotnet).
+	=> Bạn cần Cài đặt thêm phần mềm hỗ trợ để chạy Auto Care là Net Framework 4.5 (Dotnet 4.5)
+	- Link tải và cài đặt Dotnet 4.5: https://www.microsoft.com/en-us/download/details.aspx?id=30653
+
+<--- Lỗi Không Thấy Giao Diện Đầy Đủ --->
+	- Bước 1: Bạn hãy vào trang Google: https://www.google.com
+	- Bước 2: Sau đó tìm kiếm: Cách tăng độ phân giải màn hình máy tính
+	- Bước 3: Hãy làm theo chỉ dẫn tìm kiếm được và làm theo là Ok nhé.
+
+<--- Lỗi Khởi Động Trình Duyệt Chrome --->
+	* Nếu bạn chạy Auto và bị báo lỗi tắt Chrome hoặc máy chưa cài đặt Chrome, hãy làm theo các hướng dẫn sau:
+	* Trường hợp 1: 
+		- Bạn gãy gỡ bỏ trình duyệt Chrome hiện tại trên máy tính và cài lại phiên bản mới nhất.
+		- Link tải và cài đặt Google Chrome: https://www.google.com/intl/vi_vn/chrome
+	* Trường hợp 2: 
+		- Nếu sau khi cài lại trình duyệt Chrome mới nhất nhưng vẫn báo thất bại.
+		- Do Chrome driver hiện tại không hỗ trợ cho máy của bạn, bạn cần tảy Chromedriver mới nhất.
+		- Link tải Chromedriver: https://chromedriver.chromium.org/downloads
+		- Hãy tải bản mới nhất về và Copy sau đó Paste file chromedriver vào thư mục Auto (chọn Yes to All để ghi đè File nếu có).
+	* Trường hợp 3: 
+		- Trong quá trình chạy và bị báo lỗi mở Chrome, hãy tắt Chrome hiện tại đang mở vì Auto không thể điều khiển cùng lúc 2 Chrome.
+		- Hoặc tải lại Auto bằng link để được cập nhật.
+	* Trường hợp 4:
+		- Nếu đã đăng nhập thành công và tự nhiên xuất hiện lỗi.
+		- Hãy Click chuột Phải vào tài khoản đó và chọn Xóa dữ liệu Chrome, sau đó Bắt đầu chạy lại.
+		- Cũng có thể áp dụng cách Xóa này để Xóa dữ liệu nếu Auto nhận diện nhầm Bị Checkpoint hoặc Đăng xuất.
+
+<--- Lỗi Trong Quá Trình Sử Dụng Hoặc Update --->
+	- Bạn hãy tải lại Auto bằng 1 trong 2 Link bên dưới, cả 2 đều là phiên bản mới nhất:
+	- Link tải mặc định: http://bit.ly/QAutoCare
+	- Hoặc tải bằng Link: http://bit.ly/AutoTangLikeCheo
+
+=========================== PHƯƠNG PHÁP HẠN CHẾ CHECKPOINT ==========================
+
+- Phải là tài khoản có đầy đủ thông tin công khai như Số điện thoại còn sử dụng, Avata và Email xác thực chính xác.
+
+- Khi đã đủ thông tin như trên nếu tài khoản bị Checkpoint thì chờ 7 ngày sau Facebook sẽ tự mở và làm việc tiếp.
+
+- Khi có 1 tài khoản bị Checkpont lập tức kết thúc làm việc, chờ vài tiếng sau mới bắt đầu tiếp cho các tài khoản khác.
+
+- Không nên chạy quá nhiều tài khoản Facebook trên một máy tính hoặc 1 địa chỉ IP (chỉ nên chạy tối đa 20 tài khoản).
+
+- Không nên chạy quá nhiều tài khoản làm việc cùng 1 lúc trên Auto, nên chạy cùng lúc từ 1-5 tài khoản là tốt nhất.
+
+- Tài khoản mới tạo: Không nên chạy Auto ngay, nên tương tác và chăm sóc trước khi làm việc, tương tác như Auto PRO.
+
+- Tài khoản mới tạo: Trong tuần đầu tiên mỗi ngày chỉ nên làm từ 20-30 job để quen, khi ổn định thì bắt đầu làm Full Job Care.
+
+- Khi bắt đầu nhập tài khoản vào máy tính để chạy Auto không nên đăng nhập liên tiếp, giãn cách tránh Facebook phát hiện.
+
+- Nếu bạn có phương pháp tốt hơn, hãy vào Group cộng đồng Auto Care và chia sẻ cách của bạn cho các bạn khác biết với nhé!
