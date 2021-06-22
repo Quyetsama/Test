@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 lo cc
+=======
+hi
+>>>>>>> 6006e0e856dc9d6d0bf5f442cb38f449335994ea
